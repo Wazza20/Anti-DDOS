@@ -23,17 +23,17 @@ You need to set the config file according to your system architecture.
 
 ### RUN
 ```
-root@ismailtasdelen:~# bash ./anti-ddos.sh
+root@wazza20:~# bash ./anti-ddos.sh
 ```
 
 ### Cloning an Existing Repository ( Clone with HTTPS )
 ```
-root@ismailtasdelen:~# git clone https://github.com/ismailtasdelen/Anti-DDOS.git
+root@wazza20:~# git clone https://github.com/ismailtasdelen/Anti-DDOS.git
 ```
 
 ### Cloning an Existing Repository ( Clone with SSH )
 ```
-root@ismailtasdelen:~# git clone git@github.com:ismailtasdelen/Anti-DDOS.git
+root@wazza20:~# git clone git@github.com:ismailtasdelen/Anti-DDOS.git
 ```
 
 ### About DOS and DDOS :
@@ -58,10 +58,8 @@ root@ismailtasdelen:~# git clone git@github.com:ismailtasdelen/Anti-DDOS.git
 
 ### Contact :
 
-##### Mail : ismailtasdelen@protonmail.com
+##### Mail : sorinsandu36@gmail.com
 
-##### Linkedin : https://www.linkedin.com/in/ismailtasdelen
+##### Linkedin : https://www.linkedin.com/in/sorin-sandu-b57923b3/
 
-##### GitHub : https://github.com/ismailtasdelen
-
-##### Telegram : https://t.me/ismailtasdelen
+##### GitHub : https://github.com/Wazza20
