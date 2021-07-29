@@ -28,12 +28,12 @@ root@wazza20:~# bash ./anti-ddos.sh
 
 ### Cloning an Existing Repository ( Clone with HTTPS )
 ```
-root@wazza20:~# git clone https://github.com/ismailtasdelen/Anti-DDOS.git
+root@wazza20:~# git clone https://github.com/Wazza20/Anti-DDOS.git
 ```
 
 ### Cloning an Existing Repository ( Clone with SSH )
 ```
-root@wazza20:~# git clone git@github.com:ismailtasdelen/Anti-DDOS.git
+root@wazza20:~# git clone git@github.com:Wazza20/Anti-DDOS.git
 ```
 
 ### About DOS and DDOS :
